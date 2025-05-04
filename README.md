@@ -43,19 +43,24 @@ PartyRock, powered by **Amazon Bedrock**, is an **AI app-building platform** tha
 
 💡 Want even more customization? **Click "Remix"** on an app to tweak and make it your own!  
 
-Here’s a clean and engaging write-up for your README.md, capturing your journey! 🚀
 
-🛠️ Project Journey: Building the Task Scheduler
-This project was my introduction to PartyRock and the first part of the 30-day challenge. The initial goal was to create a task scheduler, so I followed along with the prompts and got it working pretty easily.
-🔹 Improving the Scheduler
-Once I had the basic setup running, I started thinking—what if you already have plans? That night, I had a dinner theater date with my wife, and I wanted my scheduler to account for pre-existing events. So, I adjusted the app to allow users to input previous plans alongside new tasks.
-🔹 Refining the Look & Feel
-After testing it out, I realized the UI felt a bit clunky. So, I tweaked the layout to make it look better and function more smoothly.
-🔹 Final Outcome & Where to Use It
-Now, whenever I need a task scheduler, I use this link:
-🔗 TaskSync Planner
-This way, no excuses for skipping workouts—even when there’s a date night! 💪🔥
+## 🛠️ Project Journey: Building the Task Scheduler  
 
-This keeps it clear, engaging, and personal while maintaining a solid structure! Let me know if you’d like any tweaks! 😎
+### 🔹 Initial Setup  
+This was the first step—getting the basic task scheduler running using PartyRock.  
+![Original Setup](https://github.com/AaronG-Engineer/TaskSyncPlanner/blob/main/OG%20task%20planner.png)  
 
+### 🔹 First Improvement: Adding Previous Plans  
+Modified the scheduler to **include pre-existing events**.  
+![Task Planner with Plans](https://github.com/AaronG-Engineer/TaskSyncPlanner/blob/main/Task%20planner%20-with%20plans.png)  
 
+### 🔹 Final Version: AI-Generated Images & Motivation  
+Refined the UI to make it **look better and function more smoothly**.  
+Now, the TaskSync Planner **randomly selects a task from your list** and generates an AI-powered **image** to visualize it.  
+Plus, I added a **motivational quote** to keep users inspired while planning their day!  
+
+![Final TaskSync Planner](https://github.com/AaronG-Engineer/TaskSyncPlanner/blob/main/TaskSync%20Planner.png)  
+
+## 🖼️ **Screenshots & Planning Method**  
+Here’s an overview showing all screens and the planning flow:  
+![Full Process Overview](https://github.com/AaronG-Engineer/TaskSyncPlanner/blob/main/4%20screen%20full.png)  
